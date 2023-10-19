@@ -1,0 +1,19 @@
+body{
+    background-color:lightcyan;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+.dice{
+    display: inline-block;
+    padding-left: 23%;
+    padding-top: 40px;
+   
+}
+p{
+    font-size: 40px;
+    text-align: center;
+    font-style: italic ;
+    
+}
